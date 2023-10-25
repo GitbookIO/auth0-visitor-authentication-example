@@ -1,0 +1,11 @@
+{
+  "name": "auth0-visitor-authentication-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-openid-connect": "^2.17.0",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
